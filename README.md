@@ -1,5 +1,5 @@
 # classification-challenge
-This challenge is to develop a supervised ML model that will detect spam emails and filter them out of a customer's inbox. The two classification models to be used are logistic regression and random forest model. 
+This challenge is to evaluate which supervised ML model is the best to detect spam emails and filter them out of a customer's inbox. The two classification models that will be compared are are logistic regression and random forest model. 
 
 
 Instructions
